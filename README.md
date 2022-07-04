@@ -1,2 +1,2 @@
 # trial - Trial
-> Business Application
+> My Business Application
